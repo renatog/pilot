@@ -1,0 +1,38 @@
+/** Add css rules here for your application. */
+
+
+body
+{
+/* 	font-family: 'Niconne', sans-serif; */
+	font-family: 'Passero One', sans-serif;
+	color: #FFFFFF;
+	padding: 0;
+	margin: 0;
+	font-size: 1em;
+}
+
+.welcome
+{
+	font-size: 1.5em;
+	background-color: #222230;
+	text-align: center;
+}
+.menu
+{
+	background-color: #555560;
+	text-align: center;
+}
+.content
+{
+	background-color: #333340;
+}
+.content div, table, select, img
+{
+	margin: 5px 5px 10px 5px;
+}
+.datePicker
+{
+	padding: 5px;
+	background-color: #EEEEEE;
+	color: #000000;
+}
